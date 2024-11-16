@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    height: 300px;
+    margin-top: 0px;
+    background: black;
+}
+
+.container .jumbotron{
+    padding: 116px;
+}
+
+.container .jumbotron h1{
+    font-size: 50px;
+    color: chocolate;
+    font-family: monospace;
+}
+
+.main-container .row{
+    width: 100%;
+    min-height: 100vh;
+}
+
+.main-container .row .col-sm-4{
+    width: 28%;
+    float: left;
+    text-align: justify;
+    padding: 35px;
+}
+
