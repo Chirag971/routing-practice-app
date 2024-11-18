@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+table{
+  width:400px;
+  font-size: 27px;
+  border-collapse: collapse;
+}
+table tr th{
+  width: 133px;
+  background-color: #df9393;
+  padding: 10px;
+  border: 1px solid green;
+}
+
+table tr td {
+  width: 133px;
+  text-align: center;
+  background-color: #e3bebe;
+  padding: 10px;
+  border: 1px solid green;
+}
+
+.main-container h1{
+  background-color: rgb(196, 179, 211);
+   border-radius: 10px ;
+}
+
+
+.aboutinfo{
+  background-color: rgb(137, 76, 109);
+  font-size: larger;
+}
